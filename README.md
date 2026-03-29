@@ -2,7 +2,7 @@
 
 Korean vocabulary study app, built for learning Korean vocabulary from TOPIK / KIIP class textbooks
 
-[Download StudyBuddy](https://apps.apple.com/kr/app/studybuddy-korean-vocabulary/id6755516696)
+[Download StudyBuddy Korean for iOS](https://apps.apple.com/kr/app/studybuddy-korean-vocabulary/id6755516696)
 ---
 
 ## What it does
