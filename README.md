@@ -2,7 +2,7 @@
 
 ## Release Notes
 
-KIIP / TOPIK Level II will be released July 2026
+TOPIK / KIIP Level II will be released July 2026
 
 Korean vocabulary study app, built for learning Korean vocabulary from TOPIK / KIIP class textbooks
 
