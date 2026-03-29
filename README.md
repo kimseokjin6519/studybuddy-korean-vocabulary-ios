@@ -6,8 +6,6 @@ TOPIK / KIIP Level II will be released July 2026
 
 Korean vocabulary study app, built for learning Korean vocabulary from TOPIK / KIIP class textbooks
 
-Download for free
-
 [Download for Free] (https://apps.apple.com/us/app/studybuddy-korean-vocabulary/id6755516696)
 ---
 
