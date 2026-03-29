@@ -13,7 +13,7 @@ Korean vocabulary study app, built for learning Korean vocabulary from TOPIK / K
 
 ## Built with
 
-This project was built as a mobile app using React Native / Expo.
+This project was built as a mobile app using React Native and Expo.
 
 ## Feedback
 
