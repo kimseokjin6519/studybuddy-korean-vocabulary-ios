@@ -17,7 +17,7 @@ This project was built as a mobile app using React Native / Expo.
 
 ## Feedback
 
-If you want to share feedback, ideas, or collaboration inquiries, feel free to open an issue or reach out.
+If you want to share feedback, ideas, or collaboration inquiries, feel free to reach out.
 
 ---
 
