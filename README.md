@@ -5,7 +5,8 @@ Korean vocabulary study app, built for learning Korean vocabulary from TOPIK / K
 [Download StudyBuddy Korean for iOS](https://apps.apple.com/kr/app/studybuddy-korean-vocabulary/id6755516696)
 ---
 
-<img width="1477" height="746" alt="image" src="https://github.com/user-attachments/assets/e203c44b-5c10-4153-ba53-df6c693c5a86" />
+<img width="1477" height="746" alt="image" src="https://github.com/user-attachments/assets/333bd52d-9358-4c4d-8731-d0c33f4a4213" />
+
 
 ## What it does
 
