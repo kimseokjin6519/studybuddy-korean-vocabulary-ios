@@ -1,5 +1,9 @@
 # StudyBuddy Korean Vocabulary
 
+## Release Notes
+
+KIIP Level II will be released in July 2026, stay tuned...
+
 Korean vocabulary study app, built for learning Korean vocabulary from TOPIK / KIIP class textbooks
 
 [Download StudyBuddy Korean for iOS](https://apps.apple.com/kr/app/studybuddy-korean-vocabulary/id6755516696)
