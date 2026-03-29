@@ -1,10 +1,8 @@
-# StudyBuddy
+# StudyBuddy Korean Vocabulary
 
-Korean vocabulary study, built for speed.
+Korean vocabulary study app, built for learning Korean vocabulary from TOPIK / KIIP class textbooks
 
-StudyBuddy is a focused mobile app for learning and reviewing Korean vocabulary through quick, repeatable practice. It is designed to help learners build recall fast without adding friction.
-
-> App Store: [Insert App Store link here]
+> App Store: https://apps.apple.com/kr/app/studybuddy-korean-vocabulary/id6755516696
 
 ---
 
